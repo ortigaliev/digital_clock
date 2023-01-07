@@ -86,15 +86,10 @@ h1{
 
 .clock .text{
   margin: 0;
-  margin-top: 12px;
+  margin-top: 13px;
   padding: 0;
-  height: 30px;
+  height: 40px;
   width: 100%;
   font-size: 15px;
   background-color:rgb(81, 120, 203)
-}
-
-.clock #ampm{
-  bottom: 0;
-
 }

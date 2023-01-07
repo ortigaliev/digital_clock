@@ -18,5 +18,5 @@ function updateClock(){
     hourEl.innerText = h ;
     minutEl.innerText = m;
     secondEl.innerText = s;
-
+}
 updateClock()
